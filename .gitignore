@@ -29,4 +29,5 @@ bin/
 .DS_Store
 
 ### iml ###
+/.idea
 Stream-API-Java.iml
